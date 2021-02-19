@@ -13,7 +13,7 @@ Em constante atualização...
 
 #### I'm Carol, Full Stack Web Development student at Trybe.
 
-I'm a fashion designer in career transition to technology, and in this repository you can find my personal projects and the ones I worked in at school.
+I'm a fashion designer in career transition to technology, and in this repository you can find my personal projects and the ones I worked in at school.<br>
 Some of the projects were made in group, like OnlineStore, Trivia and RecipesApp.
 
 Always in update....
