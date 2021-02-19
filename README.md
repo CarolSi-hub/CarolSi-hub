@@ -9,6 +9,16 @@ Alguns projetos desenvolvidos em grupo, como o OnlineStore, Trivia e App de rece
 
 Em constante atualização...
 
+---------------------------------------------------------------------------------------
+
+#### I'm Carol, Full Stack Web Development student at Trybe.
+
+I'm a fashion designer in career transition to technology, and in this repository you can find my personal projects and the ones I worked in at school.
+Some of the projects were made in group, like OnlineStore, Trivia and RecipesApp.
+
+Always in update....
+
+
 <img src="https://img.icons8.com/fluent/48/000000/email-open.png"/>a.carolg1@gmail.com or silva.anacaroline@yahoo.com.br <br>
 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> https://www.linkedin.com/in/anacsilvaandrade/
 
