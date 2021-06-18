@@ -5,7 +5,7 @@
 #### Eu sou a Carol, estudante de Desenvolvimento Web FullStack na Trybe.
 
 Estou em transição de carreira da área moda/business para área de tecnologia e esse repositório possuí os meus projetos pessoais e também os desenvolvidos na escola.<br>
-Alguns projetos desenvolvidos em grupo, como o OnlineStore, Trivia e App de receitas.
+Alguns projetos desenvolvidos em grupo, como o OnlineStore, Trivia, App de receitas e Trybeer.
 
 Em constante atualização...
 
